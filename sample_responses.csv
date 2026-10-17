@@ -1,0 +1,6 @@
+response_id,prompt,response_summary,accuracy,relevance,clarity,instruction_following,reviewer_note
+R001,"Explain why handwashing matters","Reduces spread of germs",5,5,5,5,"Clear and on topic"
+R002,"Give two examples of renewable energy","Lists solar energy only",3,4,4,2,"Only one example provided"
+R003,"Summarize a short paragraph","Summary includes unrelated detail",3,2,3,3,"Check relevance"
+R004,"Define a spreadsheet","Describes a tool for organizing data in rows and columns",5,5,4,5,"Mostly complete"
+R005,"List three colors","Lists blue and green",4,4,4,2,"One item missing"

@@ -1,0 +1,6 @@
+response_id,average_score,decision,reviewer_note
+R001,5.00,PASS,Clear and on topic
+R002,3.25,REVIEW,Only one example provided
+R003,2.75,REVIEW,Check relevance
+R004,4.75,PASS,Mostly complete
+R005,3.50,PASS,One item missing
